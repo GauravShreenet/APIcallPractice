@@ -19,4 +19,4 @@ document.getElementById("capture").addEventListener("click", async () => {
     }
 });
 
-
+app.use(cors());
